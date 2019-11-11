@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "firstName": "Nino",
+        "lastName": "Aquino",
+        "email": "ninojaquino@mail.fresnostate.edu",
+        "phone": "(559) 103-3982",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "LeBron",
+        "lastName": "James",
+        "email": "kingjames@nike.com",
+        "phone": "(310) 323-6233",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Earvin",
+        "lastName": "Johnson",
+        "email": "magicshowtimejohnson@lakers.com",
+        "phone": "(323) 325-5325",
+        "editing": false
+    }
+
+]
